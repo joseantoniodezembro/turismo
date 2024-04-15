@@ -1,0 +1,11 @@
+.titulo{
+    text-align: center;
+    color: #0c1dff;
+}
+.sub-titulo{
+    text-align:center;
+}
+body{
+   background-image: linear-gradient(to bottom, rgb(94, 219, 241),#004aad);
+   background-attachment: fixed;
+}
